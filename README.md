@@ -1,4 +1,4 @@
-# Jogo da Velha -  
+# Jogo da Velha 
 
 Este repositório contém um aplicativo Flutter desenvolvido como parte de um projeto pessoal, focado na criação de um jogo da velha interativo e visualmente atrativo, com funcionalidades aprimoradas para uma experiência de jogo divertida e desafiadora.  
 
